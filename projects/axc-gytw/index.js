@@ -24,6 +24,6 @@ module.exports = {
   },
   hallmarks: [
       ["2025-12-31", "Grow Institutional Fund Token (GIFT) is a RWA token which seeks to track the value of the Grow Heritage Fund"],
-      ["2025-04-23", "Growth Yield Token Whitelisted (GYTW) has reissued new tokens to clients with a new token name"]
+      ["2026-04-23", "Growth Yield Token Whitelisted (GYTW) has reissued new tokens to clients with a new token name"]
   ]
 };
